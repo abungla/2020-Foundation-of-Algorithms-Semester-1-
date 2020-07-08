@@ -1,4 +1,3 @@
-# 2020-Foundation-of-Algorithms-Semester-1
 # IMPORTANT NOTE
 
 The content here is meant to be a reference for what you can expect from the subject. If you decide to "borrow"
